@@ -1,0 +1,149 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
+
+
+
+
+.container{
+  margin: 20px;
+  text-align: center;
+}
+
+.login-paper{
+  max-width: 315px;
+  margin: 20px;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.signup-paper{
+  max-width: 500px;
+  margin: 20px;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.header-title{
+  margin-bottom: 0px;
+}
+
+.cardParentStyle {
+  padding: 20px;
+  text-align: center;
+}
+
+.paperStyle {
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+  text-align: "center";
+  vertical-align: top;
+}
+
+.cardStyle {
+  height: 300px;
+  width: 300px;
+  margin-right:0;
+  margin-bottom: 10px;
+}
+
+.cardTextStyle {
+  text-align: "center";
+}
+
+.button {
+  margin-right: 10px;
+}
+
+.other-login-btn{
+  margin-top: 10px;
+}
+
+.user-profile{
+  background-color: aliceblue;
+  text-align: left
+  ;
+}
+
+.no-user-found{
+  color: lightblue;
+  display: inline-block;
+}
+
+.login-button-group{
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.signup-button-group{
+  margin-top: 10px;
+  text-align: right;
+}
+
+.papar-group{
+  vertical-align: top;
+}
+
+.user-profile{
+  width: 50%;
+  max-width: 700px;
+  text-align: center;
+  display: inline-block;
+}
+
+.user-info{
+  /* width: 50%; */
+  padding: 20px;
+  width: 100%;
+  max-width: 700px;
+  text-align: center;
+  display: inline-block;
+  
+}
+
+.user-img{
+  height: 250px;
+  width: 250px;
+  background-color: azure;
+  border-radius: 50%;  
+  border: 0px;
+  object-fit: none;
+  display: inline-block;
+}
+
+.loading-container{
+  display: inline-block;
+  position: relative;
+}
+
+.loading{
+  position: relative;
+}
